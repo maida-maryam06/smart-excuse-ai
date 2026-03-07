@@ -1,0 +1,951 @@
+text,category,label
+my laptop froze while uploading assignment,technical,1
+the internet disconnected during submission,technical,1
+the lms portal stopped responding while uploading,technical,1
+my system restarted automatically during upload,technical,1
+the assignment file became corrupted during saving,technical,1
+my browser crashed while submitting assignment,technical,1
+the upload failed because of network error,technical,1
+my laptop displayed a blue screen during submission,technical,1
+the internet speed dropped suddenly during upload,technical,1
+the submission portal logged me out repeatedly,technical,1
+my computer shut down unexpectedly while uploading,technical,1
+the router stopped working suddenly,technical,1
+the system update restarted my laptop automatically,technical,1
+the upload process froze midway,technical,1
+the assignment file failed to upload correctly,technical,1
+the network connection became unstable,technical,1
+my laptop battery died during submission,technical,1
+the portal displayed a server error message,technical,1
+my computer became unresponsive while saving the file,technical,1
+the internet modem reset itself during upload,technical,1
+my grandmother passed away suddenly,family,1
+a close family member had a medical emergency,family,1
+there was an emergency in my family,family,1
+a relative was hospitalized unexpectedly,family,1
+i had to attend a family funeral,family,1
+my family required my immediate help,family,1
+a family member became seriously ill,family,1
+i had to take care of a sick relative,family,1
+my parents needed urgent assistance at home,family,1
+a family emergency occurred suddenly,family,1
+a relative had an accident and needed help,family,1
+there was a sudden family tragedy,family,1
+i had to travel urgently for family reasons,family,1
+a close relative passed away unexpectedly,family,1
+i had to support my family during a crisis,family,1
+my cousin was admitted to hospital suddenly,family,1
+a family member required emergency surgery,family,1
+there was an unexpected family problem,family,1
+i had urgent family responsibilities,family,1
+i was busy handling a family emergency,family,1
+i suddenly developed a high fever,health,1
+i had severe food poisoning,health,1
+i experienced a strong migraine,health,1
+i was feeling extremely sick that day,health,1
+i had severe stomach pain,health,1
+i had to visit the doctor urgently,health,1
+i felt dizzy and weak during the day,health,1
+i had severe fatigue and body pain,health,1
+i had to go to the hospital for treatment,health,1
+i was diagnosed with an infection,health,1
+i had a sudden allergic reaction,health,1
+i had severe flu symptoms,health,1
+i was suffering from intense headaches,health,1
+i felt extremely weak and tired,health,1
+i had nausea and dizziness,health,1
+i had severe medical discomfort,health,1
+i had to take medication and rest,health,1
+i had severe body weakness,health,1
+i was not physically well that day,health,1
+i had a sudden health issue,health,1
+my bus broke down on the way to university,transport,1
+there was heavy traffic on my route,transport,1
+my transport arrived very late,transport,1
+my vehicle broke down on the road,transport,1
+public transport was unavailable that day,transport,1
+my car had mechanical issues,transport,1
+my ride cancelled unexpectedly,transport,1
+there was a road blockage on the highway,transport,1
+i got stuck in severe traffic,transport,1
+my bike stopped working during the journey,transport,1
+there was a transport strike in the city,transport,1
+my driver did not arrive on time,transport,1
+my transport service was delayed,transport,1
+there was a road accident causing traffic delay,transport,1
+my car tire punctured on the way,transport,1
+the road was closed due to construction,transport,1
+i had trouble finding transport,transport,1
+the bus schedule changed suddenly,transport,1
+my ride was cancelled last minute,transport,1
+transportation issues made me late,transport,1
+i accidentally uploaded the assignment to my friend's portal,submission,1
+i submitted the assignment from the wrong account,submission,1
+i uploaded the wrong version of the assignment,submission,1
+i submitted the assignment to the wrong course portal,submission,1
+i uploaded the incorrect file by mistake,submission,1
+i forgot to attach the correct assignment file,submission,1
+i submitted an incomplete version of the assignment,submission,1
+i uploaded a draft instead of the final version,submission,1
+i mistakenly submitted another subject assignment,submission,1
+i attached the wrong document file,submission,1
+i uploaded the assignment to the wrong portal,submission,1
+i made an error during the submission process,submission,1
+i accidentally deleted the final assignment file,submission,1
+i submitted the wrong project document,submission,1
+i uploaded an empty file accidentally,submission,1
+i forgot to press the final submit button,submission,1
+i uploaded the assignment in the wrong format,submission,1
+i submitted the wrong document version,submission,1
+i made a mistake during file upload,submission,1
+i accidentally replaced the correct file,submission,1
+aliens abducted my laptop before submission,technical,0
+my dog ate my homework again,academic,0
+a ghost deleted my assignment file,technical,0
+my cat pressed random keys and erased everything,technical,0
+a wizard cast a spell on my laptop,technical,0
+the internet went on vacation,technical,0
+my computer developed emotions and stopped working,technical,0
+the assignment portal became shy,technical,0
+my laptop joined a rebellion against homework,technical,0
+the router forgot its job today,technical,0
+my files ran away from the folder,technical,0
+the internet signal took a lunch break,technical,0
+my laptop decided to meditate,technical,0
+the assignment vanished into another dimension,technical,0
+my keyboard refused to cooperate with me,technical,0
+the server got tired of submissions,technical,0
+my computer started daydreaming during work,technical,0
+the wifi went out for coffee,technical,0
+my project file disappeared magically,technical,0
+my laptop demanded a vacation day,technical,0
+my laptop crashed while saving the assignment,technical,1
+the internet stopped during the file upload,technical,1
+the portal displayed an internal server error,technical,1
+my system froze while submitting the project,technical,1
+the upload process failed because of network issues,technical,1
+my computer restarted unexpectedly during submission,technical,1
+the lms portal timed out repeatedly,technical,1
+the browser crashed while uploading my assignment,technical,1
+the internet connection dropped suddenly during upload,technical,1
+my laptop shut down unexpectedly while saving files,technical,1
+the router stopped responding during submission,technical,1
+the file upload failed because of server issues,technical,1
+the system update interrupted my assignment submission,technical,1
+my laptop battery died during upload,technical,1
+the computer became unresponsive during saving,technical,1
+the portal refreshed and removed my uploaded file,technical,1
+the internet speed dropped during submission,technical,1
+my laptop showed a system error during upload,technical,1
+the network disconnected during the upload process,technical,1
+the assignment file became corrupted while saving,technical,1
+my grandmother suddenly passed away,family,1
+a family member had an emergency at home,family,1
+a relative was hospitalized unexpectedly,family,1
+i had to attend a family funeral suddenly,family,1
+there was a serious family emergency,family,1
+my parents needed urgent assistance at home,family,1
+a close relative became seriously ill,family,1
+i had to help my family during a crisis,family,1
+there was a sudden family tragedy,family,1
+a relative had an accident and needed help,family,1
+my uncle was admitted to hospital suddenly,family,1
+i had to travel urgently because of family issues,family,1
+my family required my immediate presence,family,1
+there was an urgent family problem at home,family,1
+i had to support my family during a medical emergency,family,1
+a close relative passed away unexpectedly,family,1
+my family needed help with an emergency situation,family,1
+i had to attend an urgent family gathering,family,1
+a family member required emergency surgery,family,1
+i was handling a serious family situation,family,1
+i developed a sudden high fever,health,1
+i had severe food poisoning,health,1
+i was experiencing a strong migraine,health,1
+i felt extremely sick and weak,health,1
+i had severe stomach pain that day,health,1
+i had to visit the doctor urgently,health,1
+i experienced dizziness and weakness,health,1
+i had severe flu symptoms,health,1
+i had to rest because of illness,health,1
+i had severe body pain and fatigue,health,1
+i was diagnosed with a minor infection,health,1
+i had severe headaches during the day,health,1
+i was suffering from nausea and dizziness,health,1
+i felt extremely weak throughout the day,health,1
+i had to take medication and rest,health,1
+i was not physically well enough to work,health,1
+i had sudden medical discomfort,health,1
+i had severe cold and fever,health,1
+i experienced sudden illness that day,health,1
+i had a health emergency,health,1
+my bus broke down on the way to university,transport,1
+there was heavy traffic on my route,transport,1
+my transport was delayed unexpectedly,transport,1
+my vehicle broke down during the journey,transport,1
+public transport was unavailable that day,transport,1
+my car had mechanical problems,transport,1
+my ride was cancelled suddenly,transport,1
+there was a road blockage on the highway,transport,1
+i got stuck in severe traffic,transport,1
+my bike stopped working during travel,transport,1
+there was a transportation strike,transport,1
+my driver arrived very late,transport,1
+my transport service was delayed,transport,1
+there was an accident causing traffic delays,transport,1
+my car tire got punctured on the way,transport,1
+the road was closed because of construction,transport,1
+i had difficulty finding transport,transport,1
+the bus schedule changed unexpectedly,transport,1
+my ride was cancelled at the last moment,transport,1
+transportation problems made me late,transport,1
+i uploaded the assignment to the wrong portal,submission,1
+i mistakenly submitted the assignment from another account,submission,1
+i uploaded the wrong version of my assignment,submission,1
+i accidentally submitted the wrong file,submission,1
+i forgot to attach the correct document,submission,1
+i submitted an incomplete assignment file,submission,1
+i uploaded a draft instead of the final version,submission,1
+i mistakenly submitted another course assignment,submission,1
+i attached the wrong file during submission,submission,1
+i uploaded the assignment to the wrong course portal,submission,1
+i accidentally deleted the final assignment before upload,submission,1
+i submitted the wrong project file,submission,1
+i uploaded an empty document accidentally,submission,1
+i forgot to press the final submit button,submission,1
+i uploaded the assignment in the wrong format,submission,1
+i submitted the incorrect document version,submission,1
+i made a mistake during the upload process,submission,1
+i accidentally replaced the correct file,submission,1
+i submitted the wrong document by mistake,submission,1
+i made an error while uploading the assignment,submission,1
+aliens stole my laptop before submission,technical,0
+my dog ate my homework again,academic,0
+a ghost deleted my assignment file,technical,0
+my cat walked across the keyboard and erased everything,technical,0
+a wizard cast a spell on my computer,technical,0
+the internet decided to go on vacation,technical,0
+my laptop developed emotions and stopped working,technical,0
+the assignment portal became shy and refused the file,technical,0
+my computer joined a protest against homework,technical,0
+the router forgot how to connect to the internet,technical,0
+my files ran away from the folder mysteriously,technical,0
+the internet signal went on a coffee break,technical,0
+my laptop started meditating during submission,technical,0
+the assignment disappeared into another dimension,technical,0
+my keyboard refused to type anymore,technical,0
+the server got tired of student submissions,technical,0
+my computer started daydreaming during work,technical,0
+the wifi signal went to sleep,technical,0
+my project file vanished magically,technical,0
+my laptop demanded a holiday,technical,0
+my laptop stopped responding while submitting the assignment,technical,1
+the internet disconnected during file upload,technical,1
+the portal returned a server error during submission,technical,1
+my system froze while saving the assignment file,technical,1
+the upload failed because of unstable network,technical,1
+my computer restarted automatically during submission,technical,1
+the lms portal logged me out unexpectedly,technical,1
+the browser closed while uploading the project file,technical,1
+the internet speed dropped drastically during submission,technical,1
+my laptop shut down while uploading the assignment,technical,1
+the router stopped working during the submission process,technical,1
+the file upload failed due to network timeout,technical,1
+the system update restarted my laptop during submission,technical,1
+my laptop battery drained during the upload process,technical,1
+the computer froze while compressing the assignment file,technical,1
+the submission portal refreshed and cleared my file,technical,1
+the internet modem malfunctioned during upload,technical,1
+my laptop displayed a critical error during submission,technical,1
+the network connection dropped while uploading,technical,1
+the assignment file became unreadable before submission,technical,1
+my aunt was hospitalized suddenly,family,1
+a close relative required emergency medical care,family,1
+there was a sudden family crisis at home,family,1
+i had to attend an urgent family meeting,family,1
+my parents needed help with a family emergency,family,1
+a relative suffered an accident,family,1
+i had to travel urgently because of family matters,family,1
+a family member needed immediate assistance,family,1
+there was an unexpected situation in my family,family,1
+a close family member became seriously ill,family,1
+my uncle needed urgent medical help,family,1
+i had to assist my family during an emergency,family,1
+there was a sudden problem in my household,family,1
+my cousin had an accident and needed support,family,1
+i had to attend a family funeral ceremony,family,1
+my family needed my presence urgently,family,1
+there was a medical emergency in my family,family,1
+a relative required urgent hospital care,family,1
+my parents called me because of a family issue,family,1
+i was handling an urgent family situation,family,1
+i had a strong fever that day,health,1
+i experienced severe headache and weakness,health,1
+i felt extremely unwell during the day,health,1
+i had severe stomach discomfort,health,1
+i had to visit a clinic urgently,health,1
+i had dizziness and nausea,health,1
+i suffered from a sudden migraine attack,health,1
+i had severe cold and fever symptoms,health,1
+i felt too weak to continue working,health,1
+i had to rest because of illness,health,1
+i was diagnosed with a viral infection,health,1
+i experienced severe fatigue,health,1
+i had strong flu symptoms,health,1
+i had severe body aches,health,1
+i had sudden medical discomfort,health,1
+i had an allergic reaction,health,1
+i felt extremely weak during the day,health,1
+i had severe headache and nausea,health,1
+i had a sudden health problem,health,1
+i had a medical issue that required rest,health,1
+my bus arrived very late that day,transport,1
+there was heavy traffic due to road construction,transport,1
+my transport service was delayed,transport,1
+my car stopped working during the journey,transport,1
+public transport was unavailable that morning,transport,1
+my ride cancelled unexpectedly,transport,1
+there was a road accident causing traffic jam,transport,1
+my bike broke down on the way to campus,transport,1
+i got stuck in severe traffic congestion,transport,1
+my transport arrived much later than expected,transport,1
+my driver cancelled the ride suddenly,transport,1
+the bus broke down during the trip,transport,1
+i had difficulty finding transport to university,transport,1
+there was a traffic blockage on the road,transport,1
+my car tire burst during travel,transport,1
+there was a transport strike in the city,transport,1
+my ride was cancelled at the last minute,transport,1
+the bus schedule changed unexpectedly,transport,1
+my vehicle developed engine issues,transport,1
+transport delays caused me to be late,transport,1
+i accidentally uploaded the wrong assignment file,submission,1
+i submitted the assignment from another account,submission,1
+i uploaded the incorrect version of my assignment,submission,1
+i accidentally attached the wrong document,submission,1
+i forgot to attach the final assignment file,submission,1
+i submitted the draft version instead of final,submission,1
+i mistakenly submitted the wrong project file,submission,1
+i uploaded the assignment to the wrong course portal,submission,1
+i accidentally submitted another subject assignment,submission,1
+i attached an incorrect document file,submission,1
+i mistakenly uploaded an empty file,submission,1
+i submitted the assignment in the wrong format,submission,1
+i forgot to click submit after uploading,submission,1
+i uploaded the assignment to a friend's account,submission,1
+i replaced the final file with a draft version,submission,1
+i accidentally deleted the assignment before upload,submission,1
+i submitted the wrong document by mistake,submission,1
+i made an error during the upload process,submission,1
+i mistakenly uploaded the wrong file version,submission,1
+i accidentally replaced the correct file during submission,submission,1
+aliens hid my assignment file,technical,0
+my dog submitted the assignment for me,academic,0
+a ghost unplugged my computer,technical,0
+my laptop decided to sleep forever,technical,0
+the internet signal ran away from home,technical,0
+my computer became allergic to assignments,technical,0
+the router forgot its password,technical,0
+my laptop demanded a vacation day,technical,0
+my files disappeared into the cloud magically,technical,0
+the wifi went to sleep during submission,technical,0
+my laptop joined a secret society against assignments,technical,0
+the internet signal ran away from my house,technical,0
+a ghost unplugged my computer during submission,technical,0
+my cat pressed random keys and deleted my project,technical,0
+the assignment portal became shy and hid my file,technical,0
+my laptop started dancing instead of saving the file,technical,0
+aliens borrowed my laptop before submission,technical,0
+my computer suddenly believed in holidays,technical,0
+the router forgot how to internet,technical,0
+my keyboard refused to type assignment words,technical,0
+the wifi decided to take a nap,technical,0
+my files teleported into another dimension,technical,0
+my laptop started meditating during submission,technical,0
+the internet got jealous of my assignment,technical,0
+my computer demanded emotional support,technical,0
+the assignment file ran away from the folder,technical,0
+my system became allergic to deadlines,technical,0
+my laptop refused to cooperate with homework,technical,0
+the router joined a protest against assignments,technical,0
+the wifi signal went out for coffee,technical,0
+a wizard cast a spell on my laptop,technical,0
+my dog submitted the assignment incorrectly,academic,0
+a ghost edited my assignment file,technical,0
+my computer joined a rebellion against homework,technical,0
+the internet took a vacation during submission,technical,0
+my laptop fell asleep while uploading the file,technical,0
+the assignment portal got stage fright,technical,0
+my keyboard started typing random poetry,technical,0
+my laptop developed commitment issues,technical,0
+the wifi forgot my assignment existed,technical,0
+my computer suddenly became philosophical,technical,0
+my files got lost in cyberspace forever,technical,0
+the router needed a coffee break,technical,0
+my laptop started watching cat videos,technical,0
+the internet ran out of motivation,technical,0
+my computer wanted a weekend break,technical,0
+the assignment vanished mysteriously,technical,0
+my laptop believed deadlines were optional,technical,0
+my keyboard joined a writers strike,technical,0
+the server refused to accept my brilliance,technical,0
+my laptop started updating for eternity,technical,0
+the wifi signal got stuck in traffic,technical,0
+my project file went on vacation,technical,0
+the internet needed emotional healing,technical,0
+my computer lost confidence in itself,technical,0
+the router forgot its responsibilities,technical,0
+my laptop started daydreaming,technical,0
+the assignment escaped from my computer,technical,0
+my keyboard rebelled against assignments,technical,0
+my computer suddenly believed it was Sunday,technical,0
+aliens abducted my laptop before submission,technical,0
+my dog submitted the assignment incorrectly,academic,0
+a ghost deleted my assignment file,file_issue,0
+my laptop suddenly decided to take a vacation,technical,0
+the wifi signal ran away from my house,internet_issue,0
+my computer developed emotions and refused to work,technical,0
+the assignment portal got scared and rejected my file,technical,0
+my keyboard started typing random poetry,technical,0
+my laptop believed today was Sunday,technical,0
+the internet needed emotional healing,internet_issue,0
+my assignment disappeared into another dimension,file_issue,0
+my cat pressed random keys and erased everything,technical,0
+my router joined a protest against homework,internet_issue,0
+my computer joined a rebellion against assignments,technical,0
+the wifi went on a coffee break during submission,internet_issue,0
+my project file escaped from my computer,file_issue,0
+my laptop started meditating instead of working,technical,0
+my computer suddenly forgot how to save files,technical,0
+my keyboard refused to cooperate with homework,technical,0
+my assignment file teleported to another folder,file_issue,0
+my laptop developed commitment issues,technical,0
+the internet signal got stuck in traffic,internet_issue,0
+my files ran away from the folder,file_issue,0
+my computer wanted a weekend break,technical,0
+the assignment portal had stage fright,technical,0
+my laptop believed deadlines were optional,technical,0
+the wifi forgot my assignment existed,internet_issue,0
+my computer decided to daydream instead of working,technical,0
+my laptop demanded a holiday from assignments,technical,0
+my assignment vanished mysteriously,file_issue,0
+my laptop battery died during the online exam,technical,1
+the wifi disconnected while uploading my assignment,internet_issue,1
+the university portal was down during submission,internet_issue,1
+the LMS logged me out while submitting the assignment,account_issue,1
+my assignment file became corrupted while saving,file_issue,1
+i uploaded the wrong version of my project by mistake,file_issue,1
+the power went out while i was finishing my assignment,power_outage,1
+there was a sudden electricity outage in my area,power_outage,1
+i misunderstood the assignment deadline,deadline_confusion,1
+i thought the deadline was tomorrow instead of today,deadline_confusion,1
+my group member submitted the wrong file for the project,group_project,1
+our group project file got deleted accidentally,group_project,1
+my teammate uploaded the incomplete version of our project,group_project,1
+the lab computer crashed during the experiment,lab_issue,1
+the lab software stopped working during my experiment,lab_issue,1
+the lab equipment malfunctioned during my practical,lab_issue,1
+my university account got locked before submission,account_issue,1
+i forgot my university portal password before submitting,account_issue,1
+the online exam portal froze during the test,exam_issue,1
+i had two exams scheduled at the same time,exam_issue,1
+i accidentally submitted the assignment to another course,submission,1
+i uploaded the assignment in the wrong format,submission,1
+i mistakenly attached the wrong file to the submission,submission,1
+the assignment file failed to upload due to a network error,internet_issue,1
+my internet speed dropped while uploading the assignment,internet_issue,1
+the wifi router stopped working during submission,internet_issue,1
+i was suffering from severe anxiety before the exam,mental_health,1
+i had a panic attack during the exam preparation,mental_health,1
+i felt extremely stressed and could not complete the assignment,mental_health,1
+i had severe migraine during the submission time,health,1
+i had food poisoning the night before the deadline,health,1
+i suddenly developed a high fever before the exam,health,1
+i was hospitalized due to severe illness,health,1
+my bus broke down on the way to the university,transport,1
+there was a major traffic jam on the way to campus,transport,1
+my ride to the university got cancelled unexpectedly,transport,1
+i reached the exam hall late due to transport delay,transport,1
+my class schedule conflicted with another course,schedule_conflict,1
+two important classes were scheduled at the same time,schedule_conflict,1
+i accidentally deleted the assignment file before submission,file_issue,1
+my USB drive got corrupted and i lost my assignment,file_issue,1
+the computer lab was closed earlier than expected,lab_issue,1
+the campus network stopped working during submission,internet_issue,1
+the online portal returned a server error during upload,internet_issue,1
+i mistakenly saved the assignment in the wrong format,file_issue,1
+the assignment file became unreadable after saving,file_issue,1
+i accidentally overwrote the final version of my assignment,file_issue,1
+i uploaded a draft instead of the final assignment,file_issue,1
+the campus wifi stopped working during submission,internet_issue,1
+the university portal returned a server error during upload,internet_issue,1
+my laptop overheated while uploading the assignment,technical,1
+the LMS website timed out during submission,account_issue,1
+my assignment file became corrupted while exporting,file_issue,1
+the document failed to save properly,file_issue,1
+my internet connection dropped repeatedly,internet_issue,1
+the university network was under maintenance,internet_issue,1
+the online submission portal crashed,internet_issue,1
+my laptop restarted automatically during submission,technical,1
+the browser froze while uploading my assignment,technical,1
+the upload failed due to unstable internet,internet_issue,1
+my file was accidentally deleted from the system,file_issue,1
+the lab computer shut down during my experiment,lab_issue,1
+the lab software crashed during my work,lab_issue,1
+our group member uploaded the wrong project version,group_project,1
+our group project file got overwritten accidentally,group_project,1
+my teammate forgot to attach the final document,group_project,1
+my teammate submitted the wrong assignment file,group_project,1
+my group member uploaded a draft instead of the final version,group_project,1
+there was a power outage during submission,power_outage,1
+electricity went out while i was completing the assignment,power_outage,1
+my UPS battery failed during submission,power_outage,1
+the power supply suddenly stopped,power_outage,1
+i misunderstood the assignment instructions,deadline_confusion,1
+i misread the assignment deadline,deadline_confusion,1
+i confused the submission date with another subject,deadline_confusion,1
+the deadline was unclear on the portal,deadline_confusion,1
+the assignment deadline was updated unexpectedly,deadline_confusion,1
+my class schedule overlapped with another course,schedule_conflict,1
+two classes were scheduled at the same time,schedule_conflict,1
+my exam timing conflicted with another test,exam_issue,1
+two exams were scheduled too close together,exam_issue,1
+the exam portal froze during submission,exam_issue,1
+the exam website stopped responding,exam_issue,1
+my exam session expired unexpectedly,exam_issue,1
+i had severe migraine before the exam,health,1
+i had food poisoning the night before the exam,health,1
+i had a high fever before submission,health,1
+i was hospitalized unexpectedly,health,1
+i had severe stomach pain during the exam,health,1
+my family member needed urgent medical help,family,1
+there was an emergency at home,family,1
+a close relative was hospitalized suddenly,family,1
+i had to attend a family funeral,family,1
+my parents required immediate assistance,family,1
+my ride to campus got cancelled unexpectedly,transport,1
+my bus arrived extremely late,transport,1
+there was heavy traffic due to an accident,transport,1
+my car broke down on the way to university,transport,1
+the public transport system was delayed,transport,1
+aliens abducted my assignment file,file_issue,0
+my laptop developed feelings and refused to work,technical,0
+my dog ate my laptop charger,technical,0
+a ghost erased my project file,file_issue,0
+my computer decided to retire early,technical,0
+the internet signal got lost on the way,internet_issue,0
+my keyboard went on strike,technical,0
+my assignment ran away from my computer,file_issue,0
+my laptop believed deadlines were optional,technical,0
+my computer needed emotional support,technical,0
+my router started meditating,internet_issue,0
+my files disappeared into the cloud forever,file_issue,0
+my laptop started watching movies instead of working,technical,0
+the wifi signal went on vacation,internet_issue,0
+my project file teleported to another dimension,file_issue,0
+my computer thought it was the weekend,technical,0
+my keyboard refused to type assignment words,technical,0
+my assignment portal got stage fright,technical,0
+my laptop demanded a holiday,technical,0
+my files escaped from the folder,file_issue,0
+the internet forgot my assignment existed,internet_issue,0
+my cat pressed random keys and deleted everything,technical,0
+my laptop joined a rebellion against homework,technical,0
+my router forgot its job,internet_issue,0
+my computer suddenly became philosophical,technical,0
+my assignment disappeared mysteriously,file_issue,0
+my laptop decided to take a nap,technical,0
+my wifi signal ran away from home,internet_issue,0
+my computer lost confidence in itself,technical,0
+my assignment portal got tired of submissions,technical,0
+the campus wifi disconnected repeatedly,internet_issue,1
+the lab network was down during submission,lab_issue,1
+the project file failed to upload properly,file_issue,1
+the browser closed unexpectedly during submission,technical,1
+the university website displayed an error page,internet_issue,1
+the system froze during the upload process,technical,1
+the assignment file failed to open,file_issue,1
+the upload process stopped midway,internet_issue,1
+the lab computer restarted automatically,lab_issue,1
+the software license expired unexpectedly,lab_issue,1
+the experiment data was lost during saving,lab_issue,1
+our group project deadline was misunderstood,group_project,1
+my teammate forgot to share the final document,group_project,1
+our group communication broke down,group_project,1
+my group member accidentally deleted our project,group_project,1
+the exam portal logged me out unexpectedly,exam_issue,1
+my exam answer sheet failed to submit,exam_issue,1
+the online exam timer expired suddenly,exam_issue,1
+the exam submission button stopped working,exam_issue,1
+the exam platform crashed unexpectedly,exam_issue,1
+my laptop battery died during the exam,technical,1
+the charger stopped working suddenly,technical,1
+the system update restarted my laptop,technical,1
+my laptop became unresponsive during submission,technical,1
+my laptop ran out of storage space,technical,1
+the wifi router stopped responding,internet_issue,1
+the internet cable got disconnected,internet_issue,1
+the network speed dropped significantly,internet_issue,1
+the connection kept timing out,internet_issue,1
+the network authentication failed,internet_issue,1
+construction work started at my house and the noise made it impossible to focus,environment_issue,1
+workers were repairing our house and electricity had to be turned off,environment_issue,1
+there was loud drilling during house construction and i could not attend the online lecture,environment_issue,1
+renovation work at home interrupted my internet connection,environment_issue,1
+construction dust damaged my laptop charger,environment_issue,1
+my glasses broke the night before the exam and i could not see the screen clearly,personal_issue,1
+i accidentally stepped on my glasses and could not read the assignment instructions,personal_issue,1
+my spectacles broke during the exam preparation,personal_issue,1
+i lost my glasses and could not work properly on the assignment,personal_issue,1
+my contact lenses irritated my eyes during the exam,health,1
+heavy rain flooded our street and i could not leave the house,weather_issue,1
+there was flooding in my area and electricity went out,weather_issue,1
+rainwater entered the house and damaged my study materials,weather_issue,1
+the road to university was flooded so i could not reach the exam hall,weather_issue,1
+a storm damaged the internet cables in our area,weather_issue,1
+my landlord cut off electricity for maintenance,environment_issue,1
+water supply issues at home disrupted my schedule,environment_issue,1
+our building lost power due to maintenance work,power_outage,1
+a transformer failure caused a blackout in my neighborhood,power_outage,1
+my neighborhood experienced an extended power outage,power_outage,1
+my hostel room had no electricity during the assignment deadline,hostel_issue,1
+the hostel wifi stopped working during submission,hostel_issue,1
+there was maintenance in the hostel network system,hostel_issue,1
+my hostel room key was lost and i could not access my laptop,hostel_issue,1
+hostel curfew prevented me from accessing the lab,hostel_issue,1
+the library closed earlier than expected,library_issue,1
+the library computers were all occupied,library_issue,1
+the printer in the library stopped working,library_issue,1
+the library network went down during submission,library_issue,1
+the campus printer jammed while printing my assignment,printer_issue,1
+the printer ran out of ink while printing my assignment,printer_issue,1
+the printer refused to print my document correctly,printer_issue,1
+the printer printed blank pages repeatedly,printer_issue,1
+my USB drive stopped working suddenly,file_issue,1
+my USB drive got corrupted and i lost my assignment,file_issue,1
+my USB drive was not detected by the computer,file_issue,1
+my laptop keyboard stopped working during typing,technical,1
+the touchpad stopped responding on my laptop,technical,1
+my laptop screen started flickering during work,technical,1
+my laptop charger stopped charging the battery,technical,1
+my laptop fan failed and the system overheated,technical,1
+my roommate accidentally shut down my laptop,hostel_issue,1
+my roommate unplugged the router while cleaning,hostel_issue,1
+my sibling accidentally deleted my assignment,file_issue,1
+my younger brother restarted the computer while i was working,environment_issue,1
+i accidentally spilled water on my keyboard,technical,1
+i dropped my laptop and the screen stopped working,technical,1
+my laptop hard drive failed during submission,technical,1
+my computer froze while exporting the assignment,technical,1
+my browser crashed repeatedly during upload,technical,1
+i accidentally formatted the USB drive,file_issue,1
+the assignment software crashed unexpectedly,technical,1
+the antivirus deleted my project files,file_issue,1
+the compiler stopped working during coding,technical,1
+my programming IDE stopped responding,technical,1
+my lab experiment failed due to equipment malfunction,lab_issue,1
+the lab equipment calibration was incorrect,lab_issue,1
+the experiment results were lost due to a software error,lab_issue,1
+the lab computer shut down unexpectedly,lab_issue,1
+our experiment data got overwritten accidentally,lab_issue,1
+the lab instructor changed the schedule suddenly,lab_issue,1
+my group project partner uploaded the wrong file,group_project,1
+my teammate forgot to submit our project,group_project,1
+our group lost the shared project file,group_project,1
+our group had miscommunication about the deadline,group_project,1
+my group member accidentally deleted our slides,group_project,1
+the class schedule was changed without notice,schedule_conflict,1
+two classes overlapped in my timetable,schedule_conflict,1
+i mistakenly attended the wrong class time,schedule_conflict,1
+i misread the exam schedule,exam_issue,1
+i confused the exam date with another subject,exam_issue,1
+my alarm did not ring in the morning,personal_issue,1
+my phone battery died overnight,personal_issue,1
+i lost my phone and missed important notifications,personal_issue,1
+my phone storage was full and i missed the assignment message,personal_issue,1
+my phone crashed during the online exam,technical,1
+my dog hid my assignment notebook,personal_issue,1
+my cat walked across the keyboard and deleted some text,technical,1
+my pet knocked over my laptop charger,technical,1
+my neighbor's loud party disturbed my concentration,environment_issue,1
+construction noise near my house made studying impossible,environment_issue,1
+my desk chair broke while studying,environment_issue,1
+my study lamp stopped working during the night,environment_issue,1
+my internet provider was upgrading services,internet_issue,1
+my router firmware update disconnected the internet,internet_issue,1
+the wifi password changed unexpectedly,internet_issue,1
+the router overheated and shut down,internet_issue,1
+aliens flooded my street to delay my exam,weather_issue,0
+my glasses ran away because they were tired of studying,personal_issue,0
+my heart said no to doing the assignment,personal_issue,0
+my belly declared a holiday during the exam,health,0
+my stomach filed a protest against homework,health,0
+my brain went on vacation before the deadline,personal_issue,0
+my dog secretly submitted my assignment to another planet,technical,0
+the wifi signal joined a meditation retreat,internet_issue,0
+my laptop believed the deadline was optional,technical,0
+my keyboard demanded a salary raise,technical,0
+my calculator refused to cooperate with math,technical,0
+my notebook developed stage fright,academic,0
+my assignment paper flew away in the wind,academic,0
+my pencil declared independence from writing,academic,0
+my pen ran out of motivation,academic,0
+my brain crashed like a computer,personal_issue,0
+my assignment portal developed feelings and rejected my work,technical,0
+my stomach negotiated with my brain to skip the exam,health,0
+my chair told me to take a break,environment_issue,0
+my desk decided to retire early,environment_issue,0
+my laptop demanded emotional support,technical,0
+my notebook got tired of homework,academic,0
+my assignment escaped from the folder,file_issue,0
+my pen forgot how to write,academic,0
+my computer believed today was Sunday,technical,0
+my router fell asleep,internet_issue,0
+my brain started buffering like bad internet,personal_issue,0
+my belly started singing during the exam,health,0
+my stomach staged a hunger strike,health,0
+my coffee cup rebelled against studying,personal_issue,0
+my alarm clock joined a silent protest,personal_issue,0
+my calculator developed trust issues,academic,0
+my assignment disappeared into a black hole,file_issue,0
+my keyboard wrote a novel instead of my assignment,technical,0
+my laptop tried to learn yoga instead of working,technical,0
+my files hid from me,file_issue,0
+my computer wanted a vacation,technical,0
+my wifi signal got stuck in traffic,internet_issue,0
+my homework joined a rebellion,academic,0
+my laptop joined a student protest,technical,0
+my assignment portal went on holiday,technical,0
+my brain refused to cooperate,personal_issue,0
+my belly started a comedy show during the exam,health,0
+my dog ate my charger and blamed the cat,technical,0
+my cat submitted the wrong assignment,technical,0
+my laptop developed a personality,technical,0
+my wifi forgot how to internet,internet_issue,0
+my files went exploring without permission,file_issue,0
+my assignment teleported into another dimension,file_issue,0
+my computer dreamed about vacations,technical,0
+my notebook believed homework was unfair,academic,0
+my brain joined a meditation session,personal_issue,0
+my keyboard became philosophical,technical,0
+my internet connection became shy,internet_issue,0
+i had a panic attack before the exam,mental_health,1
+i was experiencing severe anxiety during the assignment deadline,mental_health,1
+i was feeling mentally overwhelmed and could not focus on the assignment,mental_health,1
+i had a stress breakdown while preparing the project,mental_health,1
+i could not concentrate because of extreme academic stress,mental_health,1
+i was struggling with burnout from multiple deadlines,mental_health,1
+i had severe anxiety before the presentation,mental_health,1
+i was emotionally exhausted and unable to complete the assignment,mental_health,1
+i had trouble sleeping because of stress before the exam,mental_health,1
+i felt extremely overwhelmed with coursework,mental_health,1
+my brain decided to take a mental health day without telling me,mental_health,0
+my motivation ran away from my brain,mental_health,0
+my brain filed a complaint against assignments,mental_health,0
+my brain started buffering like slow internet,mental_health,0
+my stress level broke the world record,mental_health,0
+my motivation went on vacation before the deadline,mental_health,0
+my brain refused to cooperate with studying,mental_health,0
+my thoughts started arguing with each other during the exam,mental_health,0
+my concentration accidentally logged out,mental_health,0
+my brain went into airplane mode during the test,mental_health,0
+my stress meter exploded like a volcano,mental_health,0
+my brain went on strike against homework,mental_health,0
+my anxiety convinced me the assignment was optional,mental_health,0
+my thoughts were buffering like bad wifi,mental_health,0
+my brain needed a coffee break during the exam,mental_health,0
+i forgot my university portal password before submission,account_issue,1
+my university account was locked after multiple login attempts,account_issue,1
+the LMS account verification failed during submission,account_issue,1
+my student portal stopped accepting my login credentials,account_issue,1
+my account session expired during the assignment upload,account_issue,1
+the university portal asked for password reset before submission,account_issue,1
+my account was temporarily blocked by the LMS system,account_issue,1
+the authentication system failed while logging in,account_issue,1
+my account was locked due to suspicious login activity,account_issue,1
+my student ID account stopped working during submission,account_issue,1
+my account decided to retire early,account_issue,0
+my login password forgot me instead of me forgetting it,account_issue,0
+my student account developed trust issues,account_issue,0
+my account ran away from the login page,account_issue,0
+my account went on vacation during submission,account_issue,0
+my login credentials started hiding from me,account_issue,0
+my account decided it was tired of studying,account_issue,0
+my password joined a witness protection program,account_issue,0
+my login screen refused to recognize me emotionally,account_issue,0
+my account forgot it belonged to me,account_issue,0
+my password developed stage fright,account_issue,0
+my login button stopped believing in me,account_issue,0
+my account started pretending it didn't know me,account_issue,0
+my password escaped from memory,account_issue,0
+my account took a day off from university life,account_issue,0
+the campus printer stopped working while printing my assignment,printer_issue,1
+the printer ran out of ink during printing,printer_issue,1
+the printer jammed while printing my report,printer_issue,1
+the printer produced blank pages instead of my assignment,printer_issue,1
+the printer refused to connect to my laptop,printer_issue,1
+the printer queue froze during printing,printer_issue,1
+the printer driver crashed during printing,printer_issue,1
+the printer printed distorted text on the assignment,printer_issue,1
+the printer overheated while printing my document,printer_issue,1
+the printer kept showing an error message,printer_issue,1
+the printer decided to become a paper shredder,printer_issue,0
+the printer developed stage fright,printer_issue,0
+the printer got tired of printing assignments,printer_issue,0
+the printer believed my assignment was too boring to print,printer_issue,0
+the printer joined a rebellion against homework,printer_issue,0
+the printer went on strike during submission day,printer_issue,0
+the printer demanded overtime payment,printer_issue,0
+the printer refused to cooperate with education,printer_issue,0
+the printer started printing random poetry,printer_issue,0
+the printer thought my assignment was confidential,printer_issue,0
+the printer suddenly became an artist instead of a printer,printer_issue,0
+the printer wanted a vacation day,printer_issue,0
+the printer decided paper deserved freedom,printer_issue,0
+the printer developed philosophical opinions about homework,printer_issue,0
+the printer decided to meditate instead of printing,printer_issue,0
+the library computers were not working that day,library_issue,1
+the library closed earlier than expected,library_issue,1
+the library wifi stopped working during my research,library_issue,1
+all library computers were occupied during assignment time,library_issue,1
+the library power supply went out suddenly,library_issue,1
+the library internet connection failed during my research,library_issue,1
+the library computer restarted during my work,library_issue,1
+the library printer stopped working during printing,library_issue,1
+the library database server was down,library_issue,1
+the library system logged me out during research,library_issue,1
+the library chairs convinced me to sleep instead of studying,library_issue,0
+the library books hid from me,library_issue,0
+the library decided it needed a coffee break,library_issue,0
+the library computers got bored of assignments,library_issue,0
+the library lights went on vacation,library_issue,0
+the library shelves started whispering secrets,library_issue,0
+the library books refused to cooperate,library_issue,0
+the library computers decided today was Sunday,library_issue,0
+the library internet signal went exploring,library_issue,0
+my laptop suddenly froze while compiling the code,technical,1
+my computer restarted automatically during submission,technical,1
+the system displayed a blue screen error during upload,technical,1
+my laptop overheated and shut down,technical,1
+my browser crashed while uploading the assignment,technical,1
+my operating system started updating during submission,technical,1
+my laptop battery died while I was saving the project,technical,1
+the compiler stopped working during coding,technical,1
+a relative was hospitalized unexpectedly,family,1
+my parents needed urgent help at home,family,1
+there was a sudden emergency in my family,family,1
+i had to attend an urgent family gathering,family,1
+my cousin had an accident and needed assistance,family,1
+i had to help my family during a medical emergency,family,1
+a close relative passed away suddenly,family,1
+my parents asked for my help during a family issue,family,1
+i had to travel suddenly due to a family matter,family,1
+a family member required emergency surgery,family,1
+my family held an emergency meeting about dinner,family,0
+my cousin challenged me to a video game tournament,family,0
+my relatives demanded i explain my life choices,family,0
+my bus broke down on the way to university,transport,1
+there was heavy traffic due to an accident,transport,1
+my ride cancelled unexpectedly,transport,1
+my car tire got punctured on the road,transport,1
+public transport was delayed that day,transport,1
+i accidentally uploaded the wrong file during submission,submission,1
+i forgot to click the final submit button,submission,1
+i uploaded a draft instead of the final assignment,submission,1
+i submitted the assignment to the wrong course portal,submission,1
+i attached the wrong document file,submission,1
+i mistakenly submitted another subject assignment,submission,1
+i uploaded the assignment in the wrong format,submission,1
+i accidentally deleted the final assignment before submission,submission,1
+i replaced the final file with an older version,submission,1
+i uploaded an empty file accidentally,submission,1
+my assignment decided to submit itself incorrectly,submission,0
+the submit button started ignoring me,submission,0
+the assignment portal became shy,submission,0
+the submission page decided it needed a break,submission,0
+my file decided it didn't want to graduate,submission,0
+my bike stopped working during the trip,transport,1
+the road was closed due to construction,transport,1
+there was a transport strike in the city,transport,1
+my driver arrived extremely late,transport,1
+my vehicle developed engine problems,transport,1
+my bus driver decided to explore the city,transport,0
+my ride got distracted by a food stall,transport,0
+the bus decided to take a scenic route,transport,0
+traffic lights started arguing with each other,transport,0
+my bike refused to cooperate with education,transport,0
+my family dog scheduled a meeting with me,family,0
+my family decided today was a holiday, family,0
+my laptop fan stopped working and the system overheated,technical,1
+my computer became extremely slow during submission,technical,1
+my laptop decided it deserved a vacation,technical,0
+my computer started thinking about life instead of working,technical,0
+my laptop believed deadlines were optional,technical,0
+my computer developed stage fright during submission,technical,0
+my system decided homework was unfair,technical,0
+the library printer joined the student protest,library_issue,0
+the library tables started judging my assignment,library_issue,0
+the library clock moved faster than normal,library_issue,0
+the library computers started daydreaming,library_issue,0
+the library books started hiding from students,library_issue,0
+the library wifi forgot the password to itself,library_issue,0
+construction work near my house caused loud noise,environment_issue,1
+electricity maintenance cut off power at home,environment_issue,1
+heavy rain flooded the street near my house,environment_issue,1
+a power outage interrupted my work,environment_issue,1
+the internet cables in my area were damaged,environment_issue,1
+there was loud drilling noise during construction,environment_issue,1
+my house electricity tripped suddenly,environment_issue,1
+stormy weather disrupted the power supply,environment_issue,1
+a transformer failure caused a blackout,environment_issue,1
+water leakage damaged my study desk,environment_issue,1
+construction workers started a concert outside,environment_issue,0
+my house decided to renovate itself,environment_issue,0
+the weather decided to test my patience,environment_issue,0
+my room joined a chaos experiment,environment_issue,0
+the electricity decided it needed rest,environment_issue,0
+my teammate uploaded the wrong version of the project,group_project,1
+our group member accidentally deleted the project file,group_project,1
+my teammate forgot to submit the final report,group_project,1
+our group misunderstood the submission deadline,group_project,1
+one teammate submitted an incomplete version,group_project,1
+our shared document got overwritten accidentally,group_project,1
+my teammate attached the wrong file,group_project,1
+our group lost access to the shared project folder,group_project,1
+my teammate accidentally replaced the final presentation,group_project,1
+our group communication failed during submission time,group_project,1
+my teammates started debating instead of working,group_project,0
+our group turned the project into a comedy show,group_project,0
+my teammates decided teamwork was optional,group_project,0
+our group started arguing about lunch instead,group_project,0
+my teammate thought the project was fictional,group_project,0
+the lab computer crashed during the experiment,lab_issue,1
+the lab software stopped responding,lab_issue,1
+the experiment equipment malfunctioned,lab_issue,1
+the lab computer restarted automatically,lab_issue,1
+the lab network stopped working,lab_issue,1
+the experiment data was lost due to a system error,lab_issue,1
+the lab computer froze during data analysis,lab_issue,1
+the lab printer stopped working,lab_issue,1
+the laboratory software license expired,lab_issue,1
+the experiment setup stopped functioning,lab_issue,1
+the lab equipment decided to retire early,lab_issue,0
+the experiment equipment got stage fright,lab_issue,0
+the lab computer started daydreaming,lab_issue,0
+the lab printer became philosophical,lab_issue,0
+the experiment refused to cooperate,lab_issue,0
+i misunderstood the assignment instructions,academic,1
+i misread the assignment deadline,academic,1
+i confused the exam schedule,academic,1
+i misunderstood the project requirements,academic,1
+i followed outdated assignment instructions,academic,1
+i thought the deadline was tomorrow,academic,1
+i misunderstood the grading guidelines,academic,1
+i followed the wrong assignment format,academic,1
+i misinterpreted the submission instructions,academic,1
+i misunderstood the course announcement,academic,1
+the textbook confused me intentionally,academic,0
+my notebook refused to take notes,academic,0
+my pen started writing random poetry,academic,0
+the assignment instructions became mysterious,academic,0
+the syllabus decided to play tricks on me,academic,0
