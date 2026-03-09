@@ -72,23 +72,7 @@ https://smart-excuse-ai.streamlit.app/
 
 The system follows a multi-stage AI pipeline:
 
-User Input
-↓
-Situation Classifier (NLP + ML)
-↓
-Excuse Generator
-↓
-Rewrite Engine
-↓
-Realism Detector
-↓
-Excuse Ranking
-↓
-Confidence Analyzer
-↓
-Explanation Engine
-↓
-Final Excuse Output
+User Input → Situation Classifier (NLP + ML) → Excuse Generator → Rewrite Engine → Realism Detector → Excuse Ranking → Confidence Analyzer → Explanation Engine → Final Excuse Output
 
 
 ---
@@ -111,58 +95,10 @@ Final Excuse Output
 
 ---
 
-## 📂 Project Structure
-
-SmartExcuseAI
-│
-├── app.py # Main Streamlit application
-├── requirements.txt # Dependencies
-│
-├── dataset
-│ ├── excuse_realism.csv
-│ └── user_feedback.csv
-│
-├── models
-│ ├── realism_model.pkl
-│ └── situation_model.pkl
-│
-├── modules
-│ ├── classifier.py
-│ ├── excuse_generator.py
-│ ├── rewrite_engine.py
-│ ├── realism_detector.py
-│ ├── confidence_analyzer.py
-│ ├── explanation_engine.py
-│ ├── feedback.py
-│ └── auto_retrain.py
-
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/smart-excuse-ai.git
-cd smart-excuse-ai
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the application:
-
-streamlit run app.py
-
-
----
-
 ## 🤖 Example Usage
 
 ### Input Situation
 
-```text
 my laptop crashed while uploading assignment
 
 While attempting to upload my assignment through the portal,
